@@ -18,6 +18,6 @@ East edge: Vertical power module. Isolated power, super clean rails end-to-end.
 North edge: Silicon photonics engine—light source is off-chip. That's what we use for the screaming-fast optical links between dies.
 ### 概念草图 | Concept Sketch
 见“图1.png”“图2.png”。
-See below for "图1.png" and "图2.png".
+See below for "图1.jpg" and "图2.jpg".
 2026年4月7日深夜于iPad Procreate绘画。
 Drawn late night, April 7, 2026, on iPad using Procreate.
