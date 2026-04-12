@@ -17,7 +17,7 @@ East edge: Vertical power module. Isolated power, super clean rails end-to-end.
 北侧：硅光IO引擎（外置光源）。拿他用来芯片间超高速光互连。
 North edge: Silicon photonics engine—light source is off-chip. That's what we use for the screaming-fast optical links between dies.
 ### 概念草图 | Concept Sketch
-见“图1.jpg”“图2.jpg”。
-See below for "图1.jpg" and "图2.jpg".
+见“正式架构图.png”。
+See below for "正式架构图.png".
 2026年4月7日深夜于iPad Procreate绘画。
 Drawn late night, April 7, 2026, on iPad using Procreate.
